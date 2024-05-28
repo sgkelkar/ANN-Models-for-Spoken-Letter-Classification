@@ -1,6 +1,6 @@
 # README
 
-These proejcts explores techniques such as feature extraction, normalization, and various machine learning algorithms for classification and clustering of biomedical signals, specifically from CTG and ECG data. This data helps us understand methods on improving the accuracy of diganising, reognizing, and predicting medical conditions and anaomolies through the use of signal porocessing.
+These projects explore techniques such as feature extraction, normalization, and various machine learning algorithms for classification and clustering of biomedical signals, specifically from CTG and ECG data. This data helps us understand methods on improving the accuracy of diagnosing, recognizing, and predicting medical conditions and anomalies through the use of signal processing.
 
 
 ### Overview
